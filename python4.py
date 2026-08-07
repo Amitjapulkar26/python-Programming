@@ -1,10 +1,10 @@
-# List of numbers
+# Given list
 data = [45, 12, 89, 2, 67]
 
-# Find largest and smallest number
+# Finding largest and smallest values
 largest = max(data)
 smallest = min(data)
 
-# Display results
-print("Largest number:", largest)
-print("Smallest number:", smallest)
+# Printing the results
+print("Largest value:", largest)
+print("Smallest value:", smallest)
